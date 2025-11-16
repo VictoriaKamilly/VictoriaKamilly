@@ -1,5 +1,5 @@
-<h2 align="left">Olá! Me chamo Victoria Kamilly e trabalho sendo Quality Assurance</h2>
-
+<h2 align="center">Olá! Me chamo Victoria Kamilly e sou Quality Assurance</h2>
+<p align="center">Sou apaixonada por garantir que cada funcionalidade entregue tenha qualidade, estabilidade e uma ótima experiência para o usuário. Como Quality Assurance, atuo na identificação de falhas, criação de cenários de teste, automação e melhoria contínua dos processos. Meu foco é contribuir para entregas mais seguras, eficientes e alinhadas às expectativas do negócio. Estou em constante evolução, aprendendo novas técnicas, ferramentas e boas práticas para elevar o nível da qualidade em cada projeto.</p>
 
 
 <div align="center">
