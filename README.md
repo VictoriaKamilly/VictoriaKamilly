@@ -1,5 +1,5 @@
-<h2 align="left">Olá! Me chamo Victoria Kamilly e sou Quality Assurance</h2>
-
+<h2 align="left">Victoria Kamilly</h2>
+<h2 align="left">Quality Assurance</h2>
 ###
 
 <div align="center">
